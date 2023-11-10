@@ -1,14 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/tduhEvNW)
 # CSE330
-- Name: Fiona Xu
-- Student id: 510576
-- Github username: Fionawin
-
-- Name: Rohan Song
-- Student id: 505908
-- Github username: RohanYim
-
-![Image text](http://18.222.253.115/~RohanSong/module6/mainpage.png)
 
 # Requirements
 ### Administration of user created chat rooms (25 Points):
